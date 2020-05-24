@@ -1,0 +1,28 @@
+/*
+ * index.css
+ * 熟悉前端开发相关技术 - 软件工程作业
+ * 183401050225  黄远鹏
+ */
+
+.submit-button {
+    height: 40px;
+    width: 100px;
+    border-radius: 10%;
+    color: white;
+    border-color: #008d4c;
+    background-color: #00a65a;
+}
+
+tr, th, td {
+    width: 200px;
+    height: 50px;
+    vertical-align: bottom;
+}
+
+th {
+    text-align: left;
+}
+
+input, select {
+    width: 80px;
+}
